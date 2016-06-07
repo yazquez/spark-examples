@@ -1,6 +1,10 @@
 *.class
 *.log
 
+# SQLSpark
+derby.log
+metastore_db
+
 # sbt specific
 .cache
 .history
